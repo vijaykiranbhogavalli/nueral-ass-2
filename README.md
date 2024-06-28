@@ -1,2 +1,2 @@
-# nueral-ass-2
+# neural-ass-2
 
